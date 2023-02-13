@@ -30,9 +30,9 @@
                 </tr>
 
                 <tr>
-                    <td>Route與view</td>
-                    <td></td>
-                    <td></td>
+                    <td>修改logo</td>
+                    <td>resources\views\auth\application-logo.blade.php</td>
+                    <td>直接加入img src="{{ asset('檔案位置') }}" width="調整寬度"</td>
                 </tr>
         </table>
     </div>
